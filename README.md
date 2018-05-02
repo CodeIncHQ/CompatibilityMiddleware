@@ -1,9 +1,6 @@
-# PSR-15 middlewares 
-
-
+# Compatibility PSR-15 middleware 
 
 This library provides a collection of [PSR-15](https://www.php-fig.org/psr/psr-15/) middleware to provide compatibility with older PHP scripts. 
-
 
 
 ## The collection includes
