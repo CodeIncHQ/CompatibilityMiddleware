@@ -2,6 +2,8 @@
 
 This library provides a collection of [PSR-15](https://www.php-fig.org/psr/psr-15/) middleware to provide compatibility with older PHP scripts. 
 
+:exclamation: This library is extracted from the now deprecated [codeinc/psr15-middlewares](https://packagist.org/packages/codeinc/psr15-middlewares) package.
+
 
 ## The collection includes
 
